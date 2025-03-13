@@ -2,7 +2,7 @@
 - 👀 I’m interested in technical writing
 - 🌱 I’m currently learning all necessary stuff
 - 💞️ I’m looking to collaborate on all sorts of projects, including enterprise, as well as private
-- 📫 To get in touch, email me on poszenda@gmail.com
+- 📫 To get in touch, email me on pespaosz@gmail.com
 
 <!---
 osza/osza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
